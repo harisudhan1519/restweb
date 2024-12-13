@@ -18,7 +18,7 @@
     text-decoration: none;
     color: antiquewhite;
     font-weight: 400;
-    color: orange;
+    color: rgb(227, 0, 38);
     text-transform: capitalize;
     font-size: 40px;
     
@@ -41,5 +41,15 @@
     text-decoration: none;
     color: antiquewhite;
     font-weight: 400;
+    font-size: 30px; 
+}
+#admini
+{
+    position: absolute;
+    top:50px;
+    left: 1150px;
+    text-decoration: none;
+    color: antiquewhite;
+    font-weight: 400px;
     font-size: 30px; 
 }

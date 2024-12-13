@@ -238,6 +238,122 @@ onlineorder.html
 </html>
 ```
 ```
+administration.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Administraion</title>
+    <style>
+        body
+        {
+            background-color:rgb(252, 253, 253);
+        }
+        #container
+        {
+            background-color: rgb(255, 254, 254);
+            display: flex;
+            height: 1000px;
+            width: auto;
+            justify-content: space-evenly;
+            border-radius: 5px;
+        }
+        #main
+        {
+            border: 1px solid black;
+        }
+        .box
+        {
+            position: relative;
+            display: inline-block;
+            top: 150px;
+            height: 200px;
+            width: 200px;
+            border: 2px solid black;
+            background-color: pink;
+            border-radius: 50%;
+        }
+        #head
+        {
+            text-align: center;
+            font-size: 40px;
+            font-family: 'Times New Roman', Times, serif;
+            font-weight: 700;
+            background-size:cover ;
+        }
+        #name
+        {
+            justify-content: space-evenly;
+        }
+        #n1
+        {
+            position: absolute;
+            bottom: 170px;
+            left: 100px;
+            font-weight: 600;
+            font-size: large;
+            font-style: inherit;
+        }
+        #n2
+        {
+            position: absolute;
+            bottom: 170px;
+            left: 330px;
+            font-weight: 600;
+            font-size: large;
+            font-style: inherit;
+        }
+        #n3
+        {
+            position: absolute;
+            bottom: 170px;
+            left: 570px;
+            font-weight: 600;
+            font-size: large;
+            font-style: inherit;
+        }
+        #n4
+        {
+            position: absolute;
+            bottom: 170px;
+            left: 800px;
+            font-weight: 600;
+            font-size: large;
+            font-style: inherit;
+        }
+        #n5
+        {
+            position: absolute;
+            bottom: 170px;
+            left: 1020px;
+            font-weight: 700;
+            font-size: large;
+            font-style: inherit;
+        }
+    </style>
+    
+</head>
+<body>
+    <div align="center" id="head">PROFESSIONAL CHEFS</div>
+    <div id="container">
+
+            <div ><img src="chef 1.webp" alt="" class="box"></div>
+            <div ><img src="chef 2.jpeg" alt="" class="box"></div>
+            <div ><img src="chef 3.png" alt="" class="box"></div>
+            <div ><img src="chef 4.avif" alt="" class="box"></div>
+            <div ><img src="chef 5.avif" class="box"></div>
+
+    </div>
+    <p id="n1">STAN RIO</p>
+        <p id="n2">KAMARAJ</p>
+        <p id="n3">NANCY</p>
+        <p id="n4">STEFFY</p>  
+        <p id="n5">JOHN WIKS</p>
+</body>
+</html>
+```
+```
 contact.html
 <!DOCTYPE html>
 <html lang="en">
@@ -355,9 +471,10 @@ contact.html
 
 
 ## OUTPUT:
-![alt text](<Screenshot (78)-1.png>)
-![alt text](<Screenshot (79)-1.png>)
-![alt text](<Screenshot (80)-3.png>)
-![alt text](<Screenshot (81)-1.png>)
+![alt text](<Screenshot (90).png>)
+![alt text](<Screenshot (91).png>)
+![alt text](<Screenshot (92).png>)
+![alt text](<Screenshot (93).png>)
+![alt text](<Screenshot (94).png>)
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
