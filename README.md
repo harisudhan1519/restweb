@@ -474,7 +474,7 @@ contact.html
 ![alt text](<Screenshot (90).png>)
 ![alt text](<Screenshot (91).png>)
 ![alt text](<Screenshot (92).png>)
-![alt text](<Screenshot (93).png>)
 ![alt text](<Screenshot (94).png>)
+![alt text](<Screenshot (93).png>)
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
