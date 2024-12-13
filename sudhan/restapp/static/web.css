@@ -1,0 +1,45 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#template
+{
+    align-items: center;
+    width: 100%;
+    object-fit: cover;
+    /* height: 800px; */
+}
+#tag
+{
+    position: absolute;
+    top:40px;
+    left: 280px;
+    text-decoration: none;
+    color: antiquewhite;
+    font-weight: 400;
+    color: orange;
+    text-transform: capitalize;
+    font-size: 40px;
+    
+}
+#order
+{
+    position: absolute;
+    top:50px;
+    left: 540px;
+    text-decoration: none;
+    color: antiquewhite;
+    font-weight: 400;
+    font-size: 30px;
+}
+#contact
+{
+    position: absolute;
+    top:50px;
+    left: 800px;
+    text-decoration: none;
+    color: antiquewhite;
+    font-weight: 400;
+    font-size: 30px; 
+}

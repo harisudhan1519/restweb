@@ -55,6 +55,55 @@ web.html
 </html>
 ```
 ```
+web.css
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#template
+{
+    align-items: center;
+    width: 100%;
+    object-fit: cover;
+    /* height: 800px; */
+}
+#tag
+{
+    position: absolute;
+    top:40px;
+    left: 280px;
+    text-decoration: none;
+    color: antiquewhite;
+    font-weight: 400;
+    color: orange;
+    text-transform: capitalize;
+    font-size: 40px;
+    
+}
+#order
+{
+    position: absolute;
+    top:50px;
+    left: 540px;
+    text-decoration: none;
+    color: antiquewhite;
+    font-weight: 400;
+    font-size: 30px;
+}
+#contact
+{
+    position: absolute;
+    top:50px;
+    left: 800px;
+    text-decoration: none;
+    color: antiquewhite;
+    font-weight: 400;
+    font-size: 30px; 
+}
+```
+```
 subway.html
 <!DOCTYPE html>
 <html lang="en">
@@ -306,9 +355,9 @@ contact.html
 
 
 ## OUTPUT:
-![alt text](<Screenshot (73).png>)
-![alt text](<Screenshot (74).png>)
-![alt text](<Screenshot (75).png>)
-![alt text](<Screenshot (76).png>)
+![alt text](<Screenshot (78)-1.png>)
+![alt text](<Screenshot (79)-1.png>)
+![alt text](<Screenshot (80)-3.png>)
+![alt text](<Screenshot (81)-1.png>)
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
